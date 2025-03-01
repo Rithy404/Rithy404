@@ -1,5 +1,7 @@
 <div align="center">
+  <a href= "https://github.com/Rithy404">
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXNudXduaGdzM3V6cHdjcmhrOWh3OGJ2dzljYXdsM3dtZTRjZ2owcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tg8ZJfgoxjDCZMz3hw/giphy.gif"  />
+  </a>
 </div>
 
 ###
@@ -90,7 +92,7 @@
 </div>
 
 ###
-
+<h3 align="left">📧  Contact Me :</h3>
 <div align="center">
   <a href="rchan2@paragoniu.edu.kh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />

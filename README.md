@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi! I'm a Computer Science Junior at Paragon International University, passionate about technology, coding, and problem-solving. you can find some of my work here, including projects, experiments, and contributions.</p>
+<p align="left">Hi! I'm a Computer Science Senior at Paragon International University, passionate about technology, coding, and problem-solving. you can find some of my work here, including projects, experiments, and contributions.</p>
 
 ###
 
